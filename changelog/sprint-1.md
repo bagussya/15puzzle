@@ -18,7 +18,7 @@
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
 | 1.1 | GUI | All | Progress(Sebagian) |
-| 1.2 | Make the x | John Doe | FAILED |
+| 1.2 |  |  |  |
 
 ## Retrospective 
 
