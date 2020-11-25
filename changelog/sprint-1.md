@@ -11,13 +11,13 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 1             | Kemungkinan ada perubahan|
+| 1             | 1             |
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Tampilan Jendela | All | 
+| 2.1 | Membuat Tampilan Jendela | All | Kemungkinan ada perubahan| 
 
 ## Retrospective 
 
