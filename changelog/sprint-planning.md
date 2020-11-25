@@ -16,13 +16,13 @@
 | 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | Bagus | 
 | 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal | 
 | 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre | 
-| 1.6 | Membuat 15 Ubin  |  | 
-| 1.7 | Membuat Ubin kosong |  | 
-| 2.1 | Membuat Tampilan Jendela |  | 
-| 2.2 | Membuat Tampilan Ubin |  | 
-| 2.3 | Membuat button newgame |  | 
-| 2.4 | Membuat text berhasil/selesai |  | 
-| 2.5 | Membuat Action Listener |  |
+| 1.6 | Membuat 15 Ubin  | Bagus | 
+| 1.7 | Membuat Ubin kosong | Bagus | 
+| 2.1 | Membuat Tampilan Jendela | All | 
+| 2.2 | Membuat Tampilan Ubin | Ikbal | 
+| 2.3 | Membuat button newgame | Andre | 
+| 2.4 | Membuat text berhasil/selesai | Later | 
+| 2.5 | Membuat Action Listener | Later |
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
