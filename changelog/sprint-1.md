@@ -11,21 +11,23 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 1             | Progress(Sebagian)|
+| 1             | Kemungkinan ada perubahan|
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | GUI | All | Progress(Sebagian) |
-| 1.2 |  |  |  |
+| 2.1 | Membuat Tampilan Jendela | All | 
 
 ## Retrospective 
 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
-## Next Sprint Backlog (Sprint 2)
+## Sprint Backlog Plan (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 1.1 | Membuat NewGame(Mulai game baru) |  | 
+| 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) |  | 
+| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) |  | 
+| 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) |  | 
+| 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) |  | 
