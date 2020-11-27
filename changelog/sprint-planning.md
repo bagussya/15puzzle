@@ -1,7 +1,7 @@
 # Sprint Planning 
 | 18/11/2020
 
-### Team (Insert your name)
+### Team 
 | NPM           | Name           |
 | ------------- |----------------|
 | 140810170054  |Ikbal Antoni    |
@@ -39,7 +39,7 @@ Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian t
 | --- | ---------- | ------- | 
 | 1.1 | Membuat NewGame(Mulai game baru) | Andre | 
 | 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal | 
-| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus | 
+| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | Bagus | 
 | 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal | 
 | 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre | 
 
