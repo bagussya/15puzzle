@@ -14,19 +14,19 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 | 140810190035  |Muhammad Bagus S|
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   -  Short changes 1
-   - Short changes 2
-
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
+- **[Sprint Planning](changelog/sprint-planning.md) - (18/11/2020)** 
    - Short changes 1
    - Short changes 2
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
+- **[Sprint 1](changelog/sprint-1.md) - (From 18/11/2020 until 24/11/2020)** 
+   - Short changes 1
+   - Short changes 2
+
+- **[Sprint 2](changelog/sprint-2.md) - (From 25/11/2020 until 01/12/2020)** 
    - Short changes 1
    - Short changes 2
    
-- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
+- **[Sprint 3](changelog/sprint-3.md) - (From 02/12/2020 until 08/12/2020)** 
    - Short changes 1
    - Short changes 2
 
