@@ -1,6 +1,6 @@
 # Challenge Guidelines
 
-Project UAS OOP – 15 Puzzle
+## Project UAS OOP – 15 Puzzle
 
 A. Deskripsi masalah
 - Nama main file adalah 'fifteen-puzzle' (Contoh command: java fifteen-puzzle)
