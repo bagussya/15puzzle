@@ -17,17 +17,18 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Tampilan Jendela | All | Kemungkinan ada perubahan| 
+| 2.1 | Membuat Tampilan Jendela | All | Failed| 
 
 ## Retrospective 
 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
 ## Sprint Backlog Plan (Sprint 2)
-| ID  | Title/Desc | Asignee | 
-| --- | ---------- | ------- | 
-| 1.1 | Membuat NewGame(Mulai game baru) | Andre | 
-| 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal | 
-| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus | 
-| 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal | 
-| 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre | 
+| ID  | Title/Desc | Asignee | Status |
+| --- | ---------- | ------- | ------ |
+| 2.1 | Membuat Tampilan Jendela | All | |
+| 1.1 | Membuat NewGame(Mulai game baru) | Andre |   |
+| 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal |  |
+| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus |  |
+| 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal |  |
+| 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre |  |
