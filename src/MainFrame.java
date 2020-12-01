@@ -6,9 +6,7 @@ import javax.swing.*;
 public class MainFrame {
     
     public MainFrame(){
-        // Mebuat obyek warna orange dari kelas Color
-        
-
+      
         JFrame frame = new JFrame();    //window
         
         JPanel panel = new JPanel();    //layout di windownya
