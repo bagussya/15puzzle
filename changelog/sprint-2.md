@@ -11,14 +11,18 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 6             | n             |
 
 ## Sprint 2 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Preparing the x | Jane Doe | DONE |
-| 2.2 | Make the x | John Doe | FAILED |
+| 2.1 | Membuat Tampilan Jendela | All | |
+| 1.1 | Membuat NewGame(Mulai game baru) | Andre |   |
+| 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal |  |
+| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus |  |
+| 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal |  |
+| 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre |  |
 
 ## Retrospective 
 
