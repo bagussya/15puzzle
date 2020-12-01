@@ -11,25 +11,28 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 6             | n             |
+|    6          |  6            |
 
 ## Sprint 2 Backlog
-
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Tampilan Jendela | All | |
-| 1.1 | Membuat NewGame(Mulai game baru) | Andre |   |
-| 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal |  |
-| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus |  |
-| 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal |  |
-| 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre |  |
+| 2.1 | Membuat Tampilan Jendela | All | DONE |
+| 1.1 | Membuat NewGame(Mulai game baru) | Andre | Done  |
+| 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal | Done |
+| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus | DONE |
+| 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal | Done |
+| 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre |Done  |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+
 
 ## Next Sprint Backlog (Sprint 3)
-| ID  | Title/Desc | Asignee | 
-| --- | ---------- | ------- | 
-| 3.1 | Preparing the x | Jane Doe | 
-| 3.2 | Make the x | John Doe | 
+| ID  | Title/Desc | Asignee | Status |
+| --- | ---------- | ------- | ------ |
+| 1.6 | Membuat 15 Ubin  |  |  |
+| 1.7 | Membuat Ubin kosong |  |  |
+| 2.2 | Membuat Tampilan Ubin |  |  |
+| 2.3 | Membuat button newgame |  |  |
+| 2.4 | Membuat text berhasil/selesai |  |  |
+| 2.5 | Membuat Action Listener |  |  |
