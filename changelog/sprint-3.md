@@ -17,8 +17,12 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Preparing the x | Jane Doe | DONE |
-| 3.2 | Make the x | John Doe | FAILED |
+| 1.6 | Membuat 15 Ubin  |  |  |
+| 1.7 | Membuat Ubin kosong |  |  |
+| 2.2 | Membuat Tampilan Ubin |  |  |
+| 2.3 | Membuat button newgame |  |  |
+| 2.4 | Membuat text berhasil/selesai |  |  |
+| 2.5 | Membuat Action Listener |  |  |
 
 ## Retrospective 
 
