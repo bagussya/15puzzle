@@ -23,6 +23,8 @@ public class StartPuzzle extends JFrame implements ActionListener{
 	private JRadioButton easy, medium, hard;
 	private BufferedImage image = null;
 	private int level = 0;
+	private Image windowIcon = ImageLoader.loadImage("/Icon.jpg");
+	
 	
 	public StartPuzzle(){
 		setTitle("New puzzle");
