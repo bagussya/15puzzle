@@ -8,10 +8,7 @@ public class MainFrame {
     public MainFrame(){
         // Mebuat obyek warna orange dari kelas Color
         
-        Color orangeColor = new Color(255, 175, 175);
-        Container wadah = frame.getContentPane();
-        wadah.setBackground(orangeColor);
-        
+
         JFrame frame = new JFrame();    //window
         
         JPanel panel = new JPanel();    //layout di windownya
