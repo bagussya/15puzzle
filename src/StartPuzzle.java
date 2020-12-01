@@ -5,7 +5,6 @@ import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-
 import javax.imageio.ImageIO;
 import javax.swing.ButtonGroup;
 import javax.swing.ImageIcon;
@@ -24,7 +23,6 @@ public class StartPuzzle extends JFrame implements ActionListener{
 	private JRadioButton easy, medium, hard;
 	private BufferedImage image = null;
 	private int level = 0;
-	private Image windowIcon = ImageLoader.loadImage("/puzzleIcon.png");
 	
 	public StartPuzzle(){
 		setTitle("New puzzle");
