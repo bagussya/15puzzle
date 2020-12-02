@@ -1,4 +1,4 @@
-# 15 Puzzle
+# 15 Puzzle ( coba coba sendiri )
 
 This repository is a final project (Java GUI) from Object-Oriented Programming Class, Teknik Informatika Universitas Padjadjaran. 
 
