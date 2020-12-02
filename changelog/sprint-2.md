@@ -16,15 +16,15 @@
 ## Sprint 2 Backlog
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Tampilan Jendela | All | DONE |
 | 1.1 | Membuat NewGame(Mulai game baru) | Andre | Done  |
 | 1.2 | Membuat Shuffle(Acak urutan angka setiap grid) | Ikbal | Done |
-| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | BAgus | DONE |
+| 1.3 | Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan) | Bagus | Done |
 | 1.4 | Membuat Reset(Mengacak ulang urutan dari puzzle) | Ikbal | Done |
 | 1.5 | Membuat EndGame(Kondisi yang memenuhi game selesai) | Andre |Done  |
+| 2.1 | Membuat Tampilan Jendela | All | Done |
 
 ## Retrospective 
-
+Program masih belum berjalan masih banyak yang harus diperbaiki.
 
 
 ## Next Sprint Backlog (Sprint 3)
