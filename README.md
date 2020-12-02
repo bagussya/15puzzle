@@ -22,8 +22,12 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Membuat Tampilan Jendela
 
 - **[Sprint 2](changelog/sprint-2.md) - (From 25/11/2020 until 01/12/2020)** 
-   - Short changes 1
-   - Short changes 2
+   - Menambahkan Tampilan Jendela
+   - Membuat NewGame(Mulai game baru)
+   - Membuat Shuffle(Acak urutan angka setiap grid)
+   - Membuat CekPuzzle(Cek apakah urutan tersebut dapat dipecahkan dengan aturan)
+   - Membuat Reset(Mengacak ulang urutan dari puzzle)
+   - Membuat EndGame(Kondisi yang memenuhi game selesai)
    
 - **[Sprint 3](changelog/sprint-3.md) - (From 02/12/2020 until 08/12/2020)** 
    - Short changes 1
