@@ -15,8 +15,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (18/11/2020)** 
-   - Short changes 1
-   - Short changes 2
+   - Membuat Tampilan Jendela
 
 - **[Sprint 1](changelog/sprint-1.md) - (From 18/11/2020 until 24/11/2020)** 
    - Short changes 1
